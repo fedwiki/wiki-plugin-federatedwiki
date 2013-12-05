@@ -1,5 +1,5 @@
 {
-	"name":	"wiki-plugin-federatedWiki",
+        "name": "wiki-plugin-federatedwiki",
 	"version":	"0.1.0",
 	"description": "Federated Wiki - FederatedWiki Plug-in",
 	"keywords":	[
