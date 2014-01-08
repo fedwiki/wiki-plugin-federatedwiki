@@ -35,10 +35,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedwiki/wiki-plugin-federatedWiki.git"
+    "url": "https://github.com/fedwiki/wiki-plugin-federatedwiki.git"
   },
   "bugs": {
-    "url": "https://github.com/fedwiki/wiki-plugin-federatedWiki/issues"
+    "url": "https://github.com/fedwiki/wiki-plugin-federatedwiki/issues"
   },
   "engines": {
     "node": "0.10"
