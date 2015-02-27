@@ -1,3 +1,10 @@
+###
+ * Federated Wiki : Federated Wiki Plugin
+ *
+ * Licensed under the MIT license.
+ * https://github.com/fedwiki/wiki-plugin-federatedwiki/blob/master/LICENSE.txt
+###
+
 window.plugins.federatedWiki =
   emit: ($item, item) ->
     slug = item.slug or 'welcome-visitors'
